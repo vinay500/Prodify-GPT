@@ -142,5 +142,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:3000",
-    "https://66448ed2ea47c100914fadaa--unique-kulfi-cc9f17.netlify.app/",
+    # "https://66448ed2ea47c100914fadaa--unique-kulfi-cc9f17.netlify.app/",
+    "https://6644abb25152d309562f5382--ornate-sprite-9fb58c.netlify.app/",
 ]
